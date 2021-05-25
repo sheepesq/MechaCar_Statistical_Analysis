@@ -13,3 +13,8 @@ mod 15
 
 insert photo of RSE
 
+## Summary Statistics on Suspension Coils ##
+
+### Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? ###
+-
+
