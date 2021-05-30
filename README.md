@@ -31,3 +31,18 @@ LOT 2
 
 LOT 3 
 ![alt text](https://github.com/sheepesq/MechaCar_Statistical_Analysis/blob/main/lot3.png "Logo Title Text 1")
+
+## Study Design: MechaCar vs Competition ##
+### What metric or metrics are you going to test? ###
+- A popular metric to test MechCar vs the Competition's Cars is MPG. This is an important factor for customers when car shopping.
+
+### What is the null hypothesis or alternative hypothesis? ###
+- The Null hypothesis for the breakdown of data is that all of the produced cars are of the same quality and are running at the same level of performance.
+
+### What statistical test would you use to test the hypothesis? And why? ##
+- you could test multiple cars of the same make/model to get an average on how the car actually performes, and use that average over just one sample.
+
+### What data is needed to run the statistical test? ###
+- you would need multiples of the same car in order to run this test
+
+ 
